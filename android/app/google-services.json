@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1061662123668",
+    "project_id": "election-report-app",
+    "storage_bucket": "election-report-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061662123668:android:3252766e0428c75b12b681",
+        "android_client_info": {
+          "package_name": "com.example.final_66120155"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMsu4456iwB1qg9Lbfrtb6fNWuGE2VWBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061662123668:android:c81b773b8dd6bd5212b681",
+        "android_client_info": {
+          "package_name": "com.example.flutter_final66120155"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMsu4456iwB1qg9Lbfrtb6fNWuGE2VWBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
